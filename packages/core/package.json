@@ -1,5 +1,5 @@
 {
-  "name": "lottie-react-native",
+  "name": "lottie-react-native-temporary-dep-fix",
   "version": "7.2.2",
   "description": "React Native bindings for Lottie",
   "main": "lib/commonjs/index.js",
